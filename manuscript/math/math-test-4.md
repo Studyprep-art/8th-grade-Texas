@@ -1,4 +1,4 @@
 # Math Practice Test 4
 
 > **Status:** stub — to be written.
-> **Intent:** ~46 items, blueprint-matched, mixed item types, Readiness~60%. Hidden tags {TEKS|R/S|type}. (2.10)
+> **Intent:** 40 questions / 48 pts (32 one-point + 8 two-point), blueprint-matched, mixed item types, Readiness 55-70%. Hidden tags {TEKS|R/S|type|pts}. (2.11)

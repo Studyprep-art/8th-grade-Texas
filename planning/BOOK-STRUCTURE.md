@@ -1,14 +1,47 @@
-# Texas STAAR Grade 8 — RLA & Math (2-in-1)
-# COMPLETE BOOK STRUCTURE (Master Architecture)
+# Texas STAAR Grade 8 — Reading Language Arts & Math (2-in-1)
+# COMPLETE BOOK STRUCTURE — FINAL (2027 Edition)
 
-> This is the full assembled skeleton of the book: every part, every chapter, every
-> test, in final order, plus the repeatable templates each piece is built from.
-> Companion doc: `planning/BOOK-OUTLINE.md` (the research + TEKS maps behind this).
+> **Author:** Adrian Ross  ·  **Edition:** 2027  ·  **Trim size:** 8.5" × 11"  ·  **Interior:** black & white
+> **Content currency:** accurate as of **November 5, 2026**.
+> Companion: `planning/BOOK-OUTLINE.md` (research + full TEKS maps).
 >
-> Decisions locked: **Math + RLA only · 8 full-length tests (4 Math + 4 RLA) ·
-> model = Learn → Practice → Simulate → Diagnose.**
->
-> STAAR® is a trademark of the Texas Education Agency. Independent study guide, not endorsed by TEA.
+> STAAR® is a trademark of the Texas Education Agency (TEA). Independent study guide, not affiliated with or endorsed by TEA.
+
+---
+
+## CURRENCY & SCOPE STATEMENT (read first)
+
+1. **Target exam:** Spring **2027** STAAR Grade 8 — **the final STAAR administration** for grades 3–8 (HB 8, signed Sept 2025; Student Success Tool replaces STAAR in 2027–28). This book is built for that last STAAR year.
+2. **Format:** STAAR is **100% online/computer-based**. This print book mirrors every online item type on paper.
+3. **Scope rule — 100% to the syllabus:** Every teaching page, every practice item, and every essay prompt maps to an **eligible TEKS student expectation** from the provided TEA documents (Math eligible TEKS; RLA eligible TEKS). **No content outside the eligible TEKS appears anywhere.** The provided syllabus matches the current (2025–26 / 2026–27) blueprint standard counts, so it is current.
+4. **Coverage aim — maximum content:** **Every eligible TEKS is both TAUGHT and PRACTICED.** Comprehensive and inclusive: no eligible skill is skipped.
+5. **Accuracy:** item counts, point values, item types, and the ECR/SCR model below reflect the current STAAR blueprint as of the date above.
+
+---
+
+## CONFIRMED BLUEPRINT (what each test must match)
+
+### Mathematics — 40 questions / 48 points
+- 32 one-point + 8 two-point questions · Readiness ≈ 55–70% of points · Multiple-choice ≤ 75% of points.
+
+| Strand (Reporting Category) | Standards (R/S) | Target questions |
+|---|---|---|
+| 1 — Numerical Representations & Relationships | 1 R / 3 S | ~4 |
+| 2 — Computations & Algebraic Relationships | 5 R / 9 S | ~15 |
+| 3 — Geometry & Measurement | 5 R / 9 S | ~13 |
+| 4 — Data Analysis & Personal Financial Literacy | 2 R / 6 S | ~8 |
+| **Total** | **13 R / 27 S** | **40** |
+
+### Reading Language Arts — ~45 questions / 56 points
+- 42 one-point items + **2 Short Constructed Responses (SCR, 2 pts each)** + **1 Extended Constructed Response (ECR, 10 pts)**.
+
+| Section | Structure | Questions | Points |
+|---|---|---|---|
+| Reading | 2 single passages + 1 paired set; incl. **2 SCRs** | ~28 | ~30 |
+| Writing — Revising & Editing | 2 revising + 2 editing passages; incl. **1 ECR** (tied to a reading passage) | ~17 | ~26 |
+| **Total** | | **~45** | **56** |
+
+> ⚠️ Confirm exact per-section splits against TEA's current Grade 8 blueprint before finalizing counts.
 
 ---
 
@@ -16,225 +49,181 @@
 
 ```
 PART 0 — FRONT MATTER
-  0.1  Title page + trademark disclaimer
+  0.1  Title page + trademark disclaimer (2027 Edition · Adrian Ross)
   0.2  Copyright page
   0.3  Table of contents
   0.4  A letter to students / to parents & teachers
 
 PART 1 — GETTING STARTED
-  1.1  How to use this book (3 paths: self-study / parent-tutor / classroom)
-  1.2  Inside the STAAR Grade 8 test (online format, subjects, timing, item counts)
-  1.3  How STAAR is scored (raw score → Did Not Meet / Approaches / Meets / Masters)
-  1.4  Item-Type Field Guide (online types shown & solved on paper)
+  1.1  How to use this book (self-study / parent-tutor / classroom)
+  1.2  Inside the STAAR Grade 8 test — 2027, the final STAAR year (online format, subjects, timing)
+  1.3  How STAAR is scored (raw score → Did Not Meet / Approaches / Meets / Masters; SCR & ECR points)
+  1.4  Item-Type Field Guide (every online type shown & solved on paper)
   1.5  Your study calendars (4-week sprint + 8-week plan)
-  1.6  Test-day game plan (pacing, elimination, flag-return, showing work)
+  1.6  Test-day game plan (pacing, elimination, flag-return, showing work, typing responses)
 
-PART 2 — MATHEMATICS
-  2.0  Section opener: how Grade 8 Math is built (4 strands, Readiness/Supporting)
+PART 2 — MATHEMATICS  (teaches & practices ALL eligible math TEKS)
+  2.0  Section opener: how Grade 8 Math is built (4 strands; 40 Q / 48 pts)
   2.1  STAAR Grade 8 Math reference sheet (replica) + how to use it
-  2.2  Strand 1 mini-review — Numerical Representations & Relationships
-  2.3  Strand 2 mini-review — Computations & Algebraic Relationships
-  2.4  Strand 3 mini-review — Geometry & Measurement
-  2.5  Strand 4 mini-review — Data Analysis & Personal Financial Literacy
-  2.6  Warm-up skill drills (by strand, TEKS-tagged)
-  2.7  MATH PRACTICE TEST 1
-  2.8  MATH PRACTICE TEST 2
-  2.9  MATH PRACTICE TEST 3
-  2.10 MATH PRACTICE TEST 4
+  2.2  Strand 1 — Numerical Representations & Relationships  (8.2A–D)
+  2.3  Strand 2 — Computations & Algebraic Relationships  (8.4, 8.5A/B/E/F/G/H/I, 8.8A/B/C, 8.9A)
+  2.4  Strand 3 — Geometry & Measurement  (8.3, 8.6A/C, 8.7, 8.8D, 8.10)
+  2.5  Strand 4 — Data Analysis & Personal Financial Literacy  (8.5C/D, 8.11, 8.12)
+  2.6  Process standards in action (8.1 A–G woven through)
+  2.7  Warm-up skill drills (every SE, TEKS-tagged)
+  2.8  MATH PRACTICE TEST 1
+  2.9  MATH PRACTICE TEST 2
+  2.10 MATH PRACTICE TEST 3
+  2.11 MATH PRACTICE TEST 4
 
-PART 3 — READING LANGUAGE ARTS
-  3.0  Section opener: how Grade 8 RLA is built (Reading, Revising & Editing, ECR)
-  3.1  Genre guide (fiction, literary nonfiction, poetry, drama, informational,
-       argumentative, persuasive, correspondence)
-  3.2  Reading strategy lessons (evidence/inference, central idea & theme,
-       author's purpose & craft, paired-passage synthesis)
-  3.3  Revising & Editing refresher (conventions checklist)
-  3.4  ⭐ ECR MASTERY (rubric, essay plans, annotated scored samples)
-  3.5  RLA PRACTICE TEST 1
-  3.6  RLA PRACTICE TEST 2
-  3.7  RLA PRACTICE TEST 3
-  3.8  RLA PRACTICE TEST 4
+PART 3 — READING LANGUAGE ARTS  (teaches & practices ALL eligible RLA TEKS)
+  3.0  Section opener: how Grade 8 RLA is built (Reading, Revising & Editing, SCR, ECR; ~45 Q / 56 pts)
+  3.1  Genre guide (fiction, literary nonfiction, poetry, drama, informational, argumentative, persuasive, correspondence)
+  3.2  Reading strategy lessons (vocabulary, comprehension, response, literary elements, genres, author's craft)
+  3.3  Revising & Editing refresher (composition + conventions, every 8.10 SE)
+  3.4  ⭐ Short Constructed Response (SCR) mastery (rubric, structure, annotated samples)
+  3.5  ⭐ Extended Constructed Response (ECR) mastery (rubric, essay plans, annotated scored samples)
+  3.6  RLA PRACTICE TEST 1
+  3.7  RLA PRACTICE TEST 2
+  3.8  RLA PRACTICE TEST 3
+  3.9  RLA PRACTICE TEST 4
 
 PART 4 — ANSWER KEYS & EXPLANATIONS
   4.1  Quick answer keys (all 8 tests, grid format)
-  4.2  Math explanations — Test 1 → 4 (worked solution + wrong-answer rationale)
-  4.3  RLA explanations — Test 1 → 4 (reasoning + text evidence + distractor analysis)
-  4.4  ECR scored-sample responses with annotations (per RLA test)
+  4.2  Math explanations — Test 1 → 4 (worked solution + wrong-answer rationale + TEKS)
+  4.3  RLA explanations — Test 1 → 4 (reasoning + text evidence + distractor analysis + TEKS)
+  4.4  SCR scored-sample responses with annotations
+  4.5  ECR scored-sample responses with annotations
 
 PART 5 — DIAGNOSE & GROW
-  5.1  Score-tracking sheets (raw → band, per test)
+  5.1  Score-tracking sheets (raw → band, per test; SCR/ECR point tracking)
   5.2  Strand diagnostic charts (find weak strand → "study this next")
   5.3  Parent/Teacher coaching guide
-  5.4  TEKS index (every standard → where practiced)
-  5.5  Final disclaimer & about
+  5.4  TEKS coverage index (every eligible SE → where taught & where practiced)
+  5.5  Final disclaimer & about the author
 ```
 
 ---
 
-## B. PAGE BUDGET (target ~360–420 pp print)
+## B. PAGE BUDGET (8.5" × 11", B&W — large page = maximum content per sheet)
 
 | Part | Component | Est. pages |
 |---|---|---|
 | 0 | Front matter | 6 |
-| 1 | Getting started (incl. item-type guide) | 20 |
-| 2 | Math foundations (2.0–2.6) | 34 |
-| 2 | 4 Math tests (~14 pp each) | 56 |
-| 3 | RLA foundations + ECR mastery (3.0–3.4) | 40 |
-| 3 | 4 RLA tests (~18 pp each) | 72 |
-| 4 | Answer keys + all explanations | 110 |
-| 4 | ECR scored samples | 16 |
-| 5 | Diagnostics + index + guides | 18 |
-| — | Section dividers / spacing | 12 |
+| 1 | Getting started (incl. item-type guide) | 18 |
+| 2 | Math foundations (2.0–2.7) | 40 |
+| 2 | 4 Math tests (40 Q each ≈ 10 pp) | 40 |
+| 3 | RLA foundations + SCR + ECR mastery (3.0–3.5) | 46 |
+| 3 | 4 RLA tests (~45 Q + passages ≈ 16 pp) | 64 |
+| 4 | Answer keys + all explanations | 120 |
+| 4 | SCR + ECR scored samples | 20 |
+| 5 | Diagnostics + TEKS index + guides | 20 |
+| — | Section dividers / spacing | 10 |
 | | **Total** | **~384** |
 
-> Deep explanations + ECR samples are where our page count beats a thin test-bank — and where the value is.
-
 ---
 
-## C. REPEATABLE TEMPLATES (how each piece is built)
+## C. REPEATABLE TEMPLATES
 
-### C.1 Math strand mini-review (Parts 2.2–2.5)
+### C.1 Math strand lesson (2.2–2.5) — must cover EVERY SE in the strand
 ```
-[Strand name] at a glance
-  • What this strand tests (plain language)
-  • TEKS covered (list w/ Readiness ★ / Supporting ○)
-Key concepts
-  • Concept → rule/formula → 1 fully worked model problem
-Watch-outs  (common Grade 8 mistakes)
-Try it  (2–3 quick items, answers upside-down/next page)
-```
-
-### C.2 Math practice test (Parts 2.7–2.10)
-```
-Test cover ½-page: title, "no calculator / calculator-allowed" note, item count, time
-Reference reminder (point to reference sheet)
-~46 items, numbered, blueprint-ordered by strand, item types mixed:
-   - multiple choice (4 options)
-   - multiselect ("choose TWO/THREE")
-   - inline choice (dropdown shown as [ ▾ ] boxes)
-   - text entry / griddable (answer-grid box)
-   - drag-and-drop (word/number bank → blanks)
-   - equation editor (write expression)
-   - graphing (coordinate grid provided)
-Griddable answer boxes where needed
-Each item carries a HIDDEN tag (in source only, not on student page):
-   {TEKS: 8.x | R/S | item-type}
+[Strand] at a glance — what it tests + full SE list (Readiness ★ / Supporting ○)
+For EACH student expectation:
+  • Plain-language explanation
+  • Rule / formula (from reference sheet where applicable)
+  • 1 fully worked model problem
+  • Watch-out (common Grade 8 error)
+  • 1–2 "Try it" items (answers follow)
+Strand wrap-up checklist (student ticks each SE)
 ```
 
-### C.3 RLA practice test (Parts 3.5–3.8)
+### C.2 Math practice test (2.8–2.11)
 ```
-Reading section
-  • Passage A (single)   + items
-  • Passage B (single)   + items
-  • Passage set C (paired: C1 + C2) + single-passage items + cross-text items
-  • Genres rotated so all 7 appear across Tests 1–4
-Revising & Editing section
-  • 2 revising passages + items
-  • 2 editing passages + items
-Extended Constructed Response
-  • 1 ECR prompt tied to a passage + lined response space + planning box
-Item types: MC, multiselect, inline choice, text entry, hot-text (underlined choices)
-Hidden tag per item: {TEKS | R/S | item-type | genre}
+Cover ½-page: title, 40 questions, time, reference-sheet reminder
+40 items, ordered by strand, blueprint-matched (32 one-point + 8 two-point):
+   MC (4 options) · multiselect · inline choice [▾] · text entry / griddable box ·
+   drag-and-drop (bank → blanks) · equation editor · graphing grid
+Hidden source tag per item: {TEKS 8.x | R/S | item-type | points}
 ```
 
-### C.4 Answer-explanation entry (Part 4.2 / 4.3)
+### C.3 RLA practice test (3.6–3.9)
 ```
-Item # — Correct: [letter/answer]   | TEKS 8.x (Readiness/Supporting)
-Why it's correct: step-by-step worked solution (math) / reasoning + exact text
-   evidence quote & line ref (RLA)
-Why the others are wrong: A… B… C… (each distractor explained)
-Strategy tip: (what to notice next time)
-```
-
-### C.5 ECR scored-sample set (Part 4.4)
-```
-The prompt (restated)
-Scoring rubric summary (score points, what each requires)
-Sample response — high score: full text + margin annotations (what earns points)
-Sample response — mid score: full text + annotations (what's missing)
-Sample response — low score: full text + annotations (how to fix)
-Checklist students self-score against
+READING SECTION (~28 Q / 30 pts)
+  • Passage A (single) + items
+  • Passage B (single) + items
+  • Passage set C (paired C1 + C2) + single-text items + cross-text items
+  • 2 Short Constructed Responses (2 pts each) with lined response box
+  • All 7 reading genres rotated across Tests 1–4
+WRITING — REVISING & EDITING (~17 Q / 26 pts)
+  • 2 revising passages + items   • 2 editing passages + items
+  • 1 Extended Constructed Response (10 pts) tied to a reading passage:
+       prompt + planning box + lined response space
+Item types: MC, multiselect, inline choice, text entry, hot-text
+Hidden source tag per item: {TEKS | R/S | item-type | genre | points}
 ```
 
-### C.6 Item-Type Field Guide entry (Part 1.4)
+### C.4 Answer-explanation entry (4.2 / 4.3)
 ```
-[Item type name]  — what it looks like online
-How to answer it on paper in THIS book (the paper convention we use)
-1 worked example
+Item # — Correct: [answer]   | TEKS 8.x (Readiness/Supporting) | [points]
+Why it's correct: step-by-step solution (math) / reasoning + exact text evidence & line ref (RLA)
+Why the others are wrong: A… B… C… (each distractor)
+Strategy tip + back-reference to the lesson to review
+```
+
+### C.5 SCR / ECR scored-sample set (4.4 / 4.5)
+```
+Prompt restated → rubric summary (score points & requirements)
+High-score sample  + margin annotations (what earns points)
+Mid-score sample   + annotations (what's missing)
+Low-score sample   + annotations (how to fix)
+Student self-scoring checklist
+```
+
+### C.6 Item-Type Field Guide entry (1.4)
+```
+[Item type] — what it looks like online → how we show & answer it on paper → 1 worked example
 ```
 
 ---
 
-## D. NAVIGATION & TAGGING SYSTEM
-- **Running headers:** left = Part/section name, right = "Math Test 2" etc.
-- **Color/shade bands** on section dividers (Math vs RLA) for fast flipping.
-- **Item tags** live only in the source manuscript (for QA + TEKS index), stripped from the student-facing page; a parallel key file keeps them.
-- **TEKS index (5.4)** auto-buildable from those tags → proves full coverage.
-- **Cross-refs:** every wrong answer in explanations points back to the mini-lesson/strand to review.
+## D. NAVIGATION, TAGGING & COVERAGE PROOF
+- Running headers (left = section, right = e.g. "Math Test 2"); grayscale section-divider bands for Math vs RLA.
+- Every item carries a hidden source tag → feeds the **TEKS coverage index (5.4)**, which proves **100% of eligible SEs are taught AND practiced** and that **nothing outside the syllabus** appears.
+- Every wrong-answer explanation back-references its lesson.
 
----
+## E. BALANCE & DIFFICULTY CURVE
+- Tests 1→4 ramp gently (T1 confidence-builder → T4 hardest).
+- Each test holds Readiness ≈ 55–70% of points; MC ≤ 75% of points.
+- Strands/genres balanced within each test and across all four.
 
-## E. SUBJECT BALANCE & DIFFICULTY CURVE
-- Math Tests 1→4 and RLA Tests 1→4 ramp gently in difficulty (T1 = confidence-builder, T4 = hardest).
-- Readiness ≈ 60% of items every test; Supporting ≈ 40% (mirrors real weighting).
-- Multiple choice ≤ 75% of points per test; rest = new online item types.
-- Genres and strands balanced WITHIN each test and ACROSS the four, so no skill is over/under-practiced.
+## F. DESIGN NOTES (8.5"×11", black & white — catchy + systematic)
+- Clean single/two-column grid; generous white space; large readable serif body + bold sans headers.
+- Grayscale shading/boxes for: lesson "Key idea," "Watch-out," "Try it," worked examples, answer boxes.
+- Consistent icons (grayscale) per block type; numbered tabs per part for fast flipping.
+- Griddable/answer bubbles and coordinate grids pre-printed. Ample lined space for SCR/ECR.
+- Every spread works in pure B&W (no reliance on color to read graphs/figures).
 
----
-
-## F. PHYSICAL FILE MAP (manuscript/)
+## G. PHYSICAL FILE MAP (manuscript/)
 ```
-front-matter/
-  00-title-and-disclaimer.md   0.1–0.2
-  01-table-of-contents.md      0.3
-  02-letter-to-reader.md       0.4
-  03-how-to-use.md             1.1
-  04-staar-explained.md        1.2–1.3
-  05-item-type-field-guide.md  1.4
-  06-study-calendars.md        1.5
-  07-test-day-game-plan.md     1.6
-math/
-  00-section-opener.md         2.0
-  01-reference-sheet.md        2.1
-  02-foundations-strand1.md    2.2
-  03-foundations-strand2.md    2.3
-  04-foundations-strand3.md    2.4
-  05-foundations-strand4.md    2.5
-  06-skill-drills.md           2.6
-  math-test-1.md               2.7
-  math-test-2.md               2.8
-  math-test-3.md               2.9
-  math-test-4.md               2.10
-rla/
-  00-section-opener.md         3.0
-  01-genre-guide.md            3.1
-  02-reading-strategies.md     3.2
-  03-revising-editing-refresher.md  3.3
-  04-ecr-mastery.md            3.4
-  rla-test-1.md                3.5
-  rla-test-2.md                3.6
-  rla-test-3.md                3.7
-  rla-test-4.md                3.8
-back-matter/
-  01-answer-keys-grid.md       4.1
-  02-explanations-math.md      4.2
-  03-explanations-rla.md       4.3
-  04-ecr-scored-samples.md     4.4
-  05-diagnostics.md            5.1–5.2
-  06-parent-teacher-guide.md   5.3
-  07-teks-index.md             5.4
-  08-final-disclaimer.md       5.5
+front-matter/  00-title-and-disclaimer · 01-table-of-contents · 02-letter-to-reader ·
+               03-how-to-use · 04-staar-explained · 05-item-type-field-guide ·
+               06-study-calendars · 07-test-day-game-plan
+math/          00-section-opener · 01-reference-sheet · 02..05-foundations-strand1..4 ·
+               06-process-standards · 07-skill-drills · math-test-1..4
+rla/           00-section-opener · 01-genre-guide · 02-reading-strategies ·
+               03-revising-editing-refresher · 04-scr-mastery · 05-ecr-mastery · rla-test-1..4
+back-matter/   01-answer-keys-grid · 02-explanations-math · 03-explanations-rla ·
+               04-scr-scored-samples · 05-ecr-scored-samples · 06-diagnostics ·
+               07-parent-teacher-guide · 08-teks-index · 09-final-disclaimer
 ```
 
----
-
-## G. ASSEMBLY ORDER (how we actually build it)
-1. Lock blueprint numbers + rubric + reference sheet (verify checklist in OUTLINE §0).
-2. Build **1 Math test + 1 RLA test + their explanations** as the quality benchmark.
+## H. ASSEMBLY ORDER
+1. Lock exact per-section counts + pull current SCR/ECR rubrics + reference sheet from TEA.
+2. Build **1 Math test + 1 RLA test (with SCR + ECR) + their explanations** = quality benchmark.
 3. Approve benchmark → clone pattern to remaining 6 tests.
-4. Write foundations/teaching layers + ECR mastery.
-5. Generate TEKS index + diagnostics from item tags.
-6. Front matter + field guide last (so they describe what the book really contains).
-7. Print-layout pass.
+4. Write all foundation lessons (every SE) + SCR/ECR mastery.
+5. Generate TEKS coverage index + diagnostics from item tags.
+6. Front matter + field guide last.
+7. Print-layout pass for 8.5"×11" B&W.
 ```
 ```

@@ -12,8 +12,13 @@
 | Item | Decision |
 |---|---|
 | Grade | 8 |
+| Edition / Author | **2027 Edition · Adrian Ross** |
+| Trim / Interior | **8.5" × 11" · black & white** |
+| Target exam | **Spring 2027 — final STAAR year** (HB 8; SST replaces STAAR 2027–28) |
+| Content currency | Accurate as of **November 5, 2026** |
 | Subjects | Mathematics + Reading Language Arts (RLA) only |
 | Full-length tests | **8 total — 4 Math + 4 RLA** |
+| Scope rule | **100% eligible-TEKS — every SE taught & practiced, nothing outside syllabus** |
 | Model | Learn → Practice → Simulate → Diagnose (NOT a raw test-bank only) |
 | Primary competitor | Matthew J. Lawson, *Texas STAAR Grade 8 RLA & Math 2-in-1* (9 tests, test-bank only) |
 | Our differentiators | Teaching mini-lessons, deep answer explanations w/ wrong-answer rationale, ECR mastery chapter, online-aware item-type simulation, score→strand diagnostics |
@@ -119,15 +124,15 @@
 
 **Process standards 8.1 A–G** — woven into every item (apply, problem-solve model, select tools, communicate, represent, connect, justify). Not a separate strand.
 
-### 2.3 Target blueprint per Math test *(≈46 items — confirm vs TEA)*
-| Strand | Approx items | Approx % |
-|---|---|---|
-| 1 — Numerical | 5 | ~11% |
-| 2 — Computations & Algebraic | 18 | ~39% |
-| 3 — Geometry & Measurement | 15 | ~33% |
-| 4 — Data & Financial | 8 | ~17% |
-| **Total** | **~46** | **100%** |
-- Readiness ≈ 60% of points · Supporting ≈ 40%
+### 2.3 Blueprint per Math test — **40 questions / 48 points** (confirmed; verify splits vs TEA)
+| Strand | Target items |
+|---|---|
+| 1 — Numerical | ~4 |
+| 2 — Computations & Algebraic | ~15 |
+| 3 — Geometry & Measurement | ~13 |
+| 4 — Data & Financial | ~8 |
+| **Total** | **40** |
+- 32 one-point + 8 two-point questions · Readiness ≈ 55–70% of points
 - Multiple-choice ≤ 75% of points; remainder = new item types (equation editor, inline choice, drag-drop, graphing, multiselect)
 
 ### 2.4 Math full-length tests
@@ -192,14 +197,14 @@
 | 11C | Argumentative multi-paragraph essay | Readiness |
 | 11D | Correspondence (opinion/complaint/request) | Supporting |
 
-### 3.4 Target blueprint per RLA test *(≈44 items — confirm vs TEA)*
-| Section | Structure | Approx items |
-|---|---|---|
-| Reading | 2 single passages + 1 paired set | ~30 |
-| Revising & Editing | 2 revising + 2 editing passages | ~13 |
-| Extended Constructed Response | 1 essay tied to a passage | 1 |
-- All 7 reading genres rotated across the 4 tests
-- Item types mixed; ≤75% multiple choice
+### 3.4 Blueprint per RLA test — **~45 questions / 56 points** (confirmed; verify splits vs TEA)
+| Section | Structure | Questions | Points |
+|---|---|---|---|
+| Reading | 2 single passages + 1 paired set; incl. **2 Short Constructed Responses (2 pts each)** | ~28 | ~30 |
+| Writing — Revising & Editing | 2 revising + 2 editing passages; incl. **1 Extended Constructed Response (10 pts)** tied to a reading passage | ~17 | ~26 |
+| **Total** | | **~45** | **56** |
+- 42 one-point items + 2 SCR (2 pts) + 1 ECR (10 pts)
+- All 7 reading genres rotated across the 4 tests; item types mixed; ≤75% multiple choice
 
 ### 3.5 RLA full-length tests
 - **RLA Test 1, 2, 3, 4** — each with fresh original passages, blueprint-matched, 1 ECR prompt each
