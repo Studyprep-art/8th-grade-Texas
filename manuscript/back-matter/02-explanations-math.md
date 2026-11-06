@@ -95,4 +95,93 @@ TEKS. **★** = Readiness, **○** = Supporting.
 **39. C** *(8.12C ○)* — Regular saving with compound interest grows the most.
 **40. B** *(8.12G ○)* — (16,000 − 6,000)/20 = 500.
 
-*(Explanations for Math Tests 3 & 4 continue on the following pages.)*
+---
+
+## Practice Test 3
+
+**1. A** *(8.2D ★)* — Decimals: 0.6, 62%=0.62, ⅝=0.625, √0.4≈0.632 → 0.6, 62%, ⅝, √0.4.
+**2. B** *(8.2B ○)* — 10²=100, 11²=121; 100<115<121 → 10 and 11.
+**3. 5.2×10⁶** *(8.2C ○)* — 5,200,000, decimal moved 6 places.
+**4. A** *(8.2A ○)* — √45 is irrational; √49=7, ¾, 0.5 are rational.
+**5. A** *(8.4C ★)* — (6−(−2))/(3−(−1)) = 8/4 = 2.
+**6. B** *(8.4B ★)* — Unit rate = 10/4 = 2.5.
+**7. y = 25x** *(8.5I ★)* — 25 L/min, starts empty (through origin).
+**8. B** *(8.5G ★)* — {(−1,2),(0,2),(1,3)} — each input once.
+**9. C** *(8.5B ○)* — y = 2x − 5 is non-proportional.
+**10. 40** *(8.5E ○)* — k = 48/6 = 8; 8×5 = 40.
+**11. A** *(8.5F ○)* — (1,3)(2,6)(3,9) ratio 3 constant.
+**12. 5** *(8.8C ★)* — 9x−7 = 4x+18 → 5x = 25 → x = 5.
+**13. A** *(8.8A ○)* — 4x−7 = x+8.
+**14. B** *(8.9A ○)* — (4,−1): x=4, y=−1.
+**15. B** *(8.4A ○)* — Similar right triangles.
+**16. B** *(8.5H ○)* — Steady rate, no fee → proportional.
+**17. A** *(8.8B ○)* — 6x+2 = 2x+22.
+**18. B** *(8.5B ○)* — y = 2x + 5.
+**19. A, C** *(8.5I ★)* — Slope 4, y-intercept −7.
+**20. C** *(8.7A ★)* — 3.14×9×10 = 282.6.
+**21. B** *(8.7A ★)* — ⅓×3.14×9×7 = 65.94.
+**22. C** *(8.7B ★)* — 40π+32π = 72π ≈ 226.08.
+**23. 17** *(8.7C ★)* — 64+225 = 289 = 17².
+**24. A** *(8.7D ○)* — Legs 4, 3 → 5.
+**25. B** *(8.3C ★)* — (6, −10).
+**26. A** *(8.10C ★)* — Over the y-axis → (2, −7).
+**27. A** *(8.10C ★)* — 180° → (3, −4).
+**28. C** *(8.10D ○)* — Area ×k²: 10×9 = 90.
+**29. C** *(8.8D ○)* — Exterior = 40+75 = 115°.
+**30. C** *(8.3A ○)* — 15 × (8/5) = 24.
+**31. 78.5** *(8.6A ○)* — Base area = πr² = 3.14×25 = 78.5.
+**32. D** *(8.10A/B ○)* — Dilation changes size.
+**33. 2** *(8.11B ○)* — Mean 8; MAD = (3+1+1+3)/4 = 2.
+**34. C** *(8.5D ★)* — 2×12+1 = 25.
+**35. A** *(8.11A ○)* — Rising points → positive linear.
+**36. C** *(8.5C ○)* — A straight rising path → linear.
+**37. $300** *(8.12D ★)* — 1,500×0.04×5 = 300.
+**38. D** *(8.12A ○)* — The longest loan costs the most interest.
+**39. C** *(8.12C ○)* — Regular saving with compound interest grows.
+**40. B** *(8.12G ○)* — (20,000 − 8,000)/24 = 500.
+
+---
+
+## Practice Test 4
+
+**1. A** *(8.2D ★)* — ⅞=0.875, 0.88, 89%=0.89, √0.8≈0.894 → ⅞, 0.88, 89%, √0.8.
+**2. B** *(8.2B ○)* — 12²=144, 13²=169; 144<150<169 → 12 and 13.
+**3. 7.2×10⁻⁵** *(8.2C ○)* — 0.000072, 5 places.
+**4. A** *(8.2A ○)* — √24 is irrational; √25=5, ⅖, 0.1 are rational.
+**5. B** *(8.4C ★)* — (−4−4)/(1−(−3)) = −8/4 = −2.
+**6. A** *(8.4B ★)* — Unit rate = 9/6 = 1.5.
+**7. y = 15x + 40** *(8.5I ★)* — Start $40, rate $15/week.
+**8. B** *(8.5G ★)* — {(2,3),(4,3),(6,5)} — each input once.
+**9. A** *(8.5B ○)* — y = 5x + 2 is non-proportional.
+**10. 72** *(8.5E ○)* — k = 54/6 = 9; 9×8 = 72.
+**11. A** *(8.5F ○)* — (1,5)(2,10)(3,15) ratio 5 constant.
+**12. 8** *(8.8C ★)* — 8x+3 = 5x+27 → 3x = 24 → x = 8.
+**13. A** *(8.8A ○)* — 2x+9 = 5x−6.
+**14. B** *(8.9A ○)* — (−2,−5): x=−2, y=−5.
+**15. B** *(8.4A ○)* — Similar right triangles.
+**16. B** *(8.5H ○)* — 3 apples for $1.50 at a steady rate → proportional.
+**17. A** *(8.8B ○)* — 7x+5 = 3x+25.
+**18. B** *(8.5B ○)* — y = 0.05x + 10.
+**19. A, C** *(8.5I ★)* — Slope −2, y-intercept 8.
+**20. C** *(8.7A ★)* — 3.14×36×5 = 565.2.
+**21. C** *(8.7A ★)* — 4⁄3×3.14×216 = 904.32.
+**22. C** *(8.7B ★)* — 40π+50π = 90π ≈ 282.6.
+**23. 29** *(8.7C ★)* — 400+441 = 841 = 29².
+**24. C** *(8.7D ○)* — Legs 6, 8 → 10.
+**25. A** *(8.3C ★)* — ½ scale → (−2, 3).
+**26. B** *(8.10C ★)* — Over the x-axis → (3, 8).
+**27. A** *(8.10C ★)* — 90° CCW → (−2, 5).
+**28. D** *(8.8D ○)* — 9x=180, x=20; largest 4x=80°.
+**29. B** *(8.10D ○)* — Area ×k²: 24 × ¼ = 6.
+**30. C** *(8.3A ○)* — 12 × (7/4) = 21.
+**31. A** *(8.6C ○)* — The square on the hypotenuse = sum of the squares on the legs.
+**32. C** *(8.10A/B ○)* — A 90° rotation preserves congruence; dilations do not.
+**33. 2** *(8.11B ○)* — Mean 10; MAD = (4+0+0+4)/4 = 2.
+**34. B** *(8.5D ★)* — 0.5×20+3 = 13.
+**35. C** *(8.11A ○)* — No pattern → no association.
+**36. C** *(8.5C ○)* — A curved path → non-linear.
+**37. $360** *(8.12D ★)* — 2,000×0.03×6 = 360.
+**38. B** *(8.12D ★)* — Compound interest earns more than simple over the same terms.
+**39. C** *(8.12C ○)* — Regular saving plus compound interest grows the most.
+**40. B** *(8.12G ○)* — (24,000 − 9,000)/30 = 500.
+
