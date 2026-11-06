@@ -78,4 +78,75 @@ with the rubrics in the SCR/ECR scored-samples section.
 **28. A** *(10D·vii ★)* — "alot" → "a lot."
 **ECR** *(11B/6B ★)* — Score with the ECR rubric: clear controlling idea, organization, evidence from both texts, conventions.
 
-*(Explanations for RLA Tests 3 & 4 continue on the following pages.)*
+---
+
+## Practice Test 3
+
+**1. B** *(2B ★)* — "nothing but boredom" shows the narrator felt impatient and bored.
+**2. B** *(7B ★)* — "I kept casting, because he kept casting" — he follows his grandfather.
+**3. B** *(5F ★)* — "Now you're paying attention" means he is finally focused and learning.
+**4. B** *(7A ○)* — The lesson is that patience is valuable.
+**5. B** *(9A ★)* — The author shares a meaningful personal experience and its lesson.
+**6. C** *(6C ★)* — "The next cast, I waited... and lifted gently" shows learned patience.
+**7. B** *(9D ○)* — "patience... is its own kind of catch" compares without *like/as* → a metaphor.
+**SCR 1** *(6C/6D ★)* — Full credit: the narrator learns patience, with evidence.
+**8. B** *(9A ★)* — Purpose: persuade readers to support the library.
+**9. B** *(8E ★)* — The message: the community should act to save the library.
+**10. B** *(9G ○)* — "Is that the school we want?" is a rhetorical question.
+**11. B** *(6C ★)* — "the only place they can borrow books they could never afford to buy."
+**12. A** *(9G ○)* — "Stand up for your library today" is a call to action.
+**13. B** *(5F ★)* — The urgency implies the library is at risk of closing or cuts.
+**14. B** *(6D ★)* — The best summary names the call to action and who depends on the library.
+**SCR 2** *(6C ★)* — Full credit: a reason the library matters (free books, quiet place) + evidence.
+**15. A** *(9D ○)* — Calling the tree "patient" and "giving" is personification.
+**16. B** *(8B ○)* — Text A is written in lines and a stanza with rhyme.
+**17. B** *(5G ★)* — Text B's main idea: trees provide important benefits.
+**18. B** *(5H ★)* — Both texts present trees as valuable and worth protecting.
+**19. B** *(6B ★)* — Cleaning air and preventing floods appears only in Text B.
+**20. B** *(9A ★)* — The poem expresses appreciation for the tree.
+**21. B** *(10C ★)* — The "tools and clothing" detail develops the idea.
+**22. B** *(10B·i ★)* — "In addition" adds a reason.
+**23. B** *(10C ★)* — One combined sentence is clearest.
+**24. A** *(10B ★)* — Sentence 1 states the main idea.
+**25. A** *(10D·i ★)* — "Rex run" → "Rex runs."
+**26. A** *(10D·i ★)* — "He wait" → "He waits."
+**27. A** *(10D·vii ★)* — "Their is" → "There is."
+**28. A** *(10D·vii ★)* — "After are walk" → "After our walk."
+**ECR** *(11C/6B ★)* — Score with the ECR rubric.
+
+---
+
+## Practice Test 4
+
+**1. B** *(2B ★)* — *Scavenged* means collected from discarded things.
+**2. B** *(7B ★)* — She keeps listening because she "promised to keep listening" to her father.
+**3. B** *(5F ★)* — A repeating pattern ("three short, three long, three short") implies a deliberate message.
+**4. B** *(7A ○)* — Persistence leads to discovery (theme).
+**5. A** *(9F ○)* — The sky "would never feel empty again" — hopeful, full of wonder.
+**6. B** *(6C ★)* — "She had nearly given up" shows she almost quit.
+**7. B** *(8A ○)* — A built radio and a signal from space make this science fiction.
+**SCR 1** *(6C ★)* — Full credit: the sky now feels full of possibility ("never feel empty again") + explanation.
+**8. B** *(5G ★)* — Central idea: fungi play a hidden but vital role in forests.
+**9. B** *(2B ★)* — Mycelium is "a web of tiny threads... in the soil."
+**10. A** *(9B ○)* — Paragraph 4 explains a function (recycling) and its result.
+**11. B** *(9A ★)* — Purpose: inform about the role of fungi.
+**12. B** *(6C ★)* — "These threads connect to the roots of trees, trading nutrients for sugar."
+**13. B** *(5F ★)* — Without fungi, "forests would drown in their own waste" — dead material would pile up.
+**14. B** *(6D ★)* — The best summary names the network and the recycling.
+**SCR 2** *(6C ★)* — Full credit: one way (feeding trees or recycling) + evidence + explanation.
+**15. B** *(8E ★)* — The claim: cities should build more protected bike lanes.
+**16. B** *(5G ★)* — Text B provides data that supports bike lanes.
+**17. B** *(5H ★)* — Together they show bike lanes benefit safety and communities.
+**18. B** *(6B ★)* — The "40% fewer injuries" statistic appears only in Text B.
+**19. B** *(9A ★)* — Text A argues for building bike lanes.
+**20. B** *(9C ○)* — Text B adds facts and numbers as evidence for Text A's argument.
+**21. B** *(10C ★)* — The "think several moves ahead" detail develops it.
+**22. B** *(10B·i ★)* — "In addition" adds a reason.
+**23. B** *(10C ★)* — One combined sentence is clearest.
+**24. A** *(10B ★)* — Sentence 1 is the thesis.
+**25. A** *(10D ○)* — "my sister and me" → "my sister and I."
+**26. A** *(10D·i ★)* — *band* (singular) → "was."
+**27. D** *(10D ○)* — "We clapped until our hands hurt" is already correct — no change.
+**28. A** *(10D·vii ★)* — "hole" → "whole."
+**ECR** *(11B ★)* — Score with the ECR rubric.
+
