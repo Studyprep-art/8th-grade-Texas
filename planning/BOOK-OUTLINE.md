@@ -12,7 +12,7 @@
 | Item | Decision |
 |---|---|
 | Grade | 8 |
-| Edition / Author | **2027 Edition · Adrian Ross** |
+| Edition / Author | **2027 Edition · Andrian Ross** |
 | Trim / Interior | **8.5" × 11" · black & white** |
 | Target exam | **Spring 2027 — final STAAR year** (HB 8; SST replaces STAAR 2027–28) |
 | Content currency | Accurate as of **November 5, 2026** |

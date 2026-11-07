@@ -21,13 +21,13 @@
 
 **2027 Edition**
 
-**Adrian Ross**
+**Andrian Ross**
 
 <!-- ============================ PAGE ii — COPYRIGHT & DISCLAIMER ============================ -->
 
 ---
 
-Copyright © 2026 by Adrian Ross. All rights reserved.
+Copyright © 2026 by Andrian Ross. All rights reserved.
 
 No part of this publication may be reproduced, distributed, or transmitted in any form or by any
 means, including photocopying, recording, or other electronic or mechanical methods, without the

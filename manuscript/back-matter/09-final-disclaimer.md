@@ -26,7 +26,7 @@ This **2027 Edition** is part of a Grade-by-Grade Texas test-preparation series 
 clear teaching, realistic practice, and honest feedback—100% aligned to the Texas Essential Knowledge
 and Skills, with nothing wasted.
 
-**Author:** Adrian Ross
+**Author:** Andrian Ross
 
 ---
 

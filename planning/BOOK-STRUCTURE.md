@@ -1,7 +1,7 @@
 # Texas STAAR Grade 8 — Reading Language Arts & Math (2-in-1)
 # COMPLETE BOOK STRUCTURE — FINAL (2027 Edition)
 
-> **Author:** Adrian Ross  ·  **Edition:** 2027  ·  **Trim size:** 8.5" × 11"  ·  **Interior:** black & white
+> **Author:** Andrian Ross  ·  **Edition:** 2027  ·  **Trim size:** 8.5" × 11"  ·  **Interior:** black & white
 > **Content currency:** accurate as of **November 5, 2026**.
 > Companion: `planning/BOOK-OUTLINE.md` (research + full TEKS maps).
 >
@@ -49,7 +49,7 @@
 
 ```
 PART 0 — FRONT MATTER
-  0.1  Title page + trademark disclaimer (2027 Edition · Adrian Ross)
+  0.1  Title page + trademark disclaimer (2027 Edition · Andrian Ross)
   0.2  Copyright page
   0.3  Table of contents
   0.4  A letter to students / to parents & teachers

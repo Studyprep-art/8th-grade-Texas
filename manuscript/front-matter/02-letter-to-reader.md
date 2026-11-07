@@ -26,7 +26,7 @@ practice, and this book gives you plenty.
 
 You can do this. Let's get started.
 
-— Adrian Ross
+— Andrian Ross
 
 &nbsp;
 
