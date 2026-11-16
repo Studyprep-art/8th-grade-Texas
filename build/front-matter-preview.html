@@ -4,7 +4,12 @@
 <meta charset="utf-8">
 <title>TEXAS STAAR GRADE 8 · Complete Study Guide</title>
 <style>
-  @page { size: Letter; margin: 0.9in 0.95in; }
+  @page { size: Letter; margin: 0.8in 0.95in 0.95in;
+          @bottom-center { content: counter(page); font-family: "Helvetica Neue", Arial, sans-serif; font-size: 9pt; color: #555; }
+        }
+  @page :first { @bottom-center { content: ""; } }
+  @page nopagenum { @bottom-center { content: ""; } }
+  section.nopagenum { page: nopagenum; }
   * { box-sizing: border-box; }
   html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
   body {
@@ -17,14 +22,14 @@
   .page:last-child { page-break-after: auto; }
 
   /* ---- Title page ---- */
-  .title-page { text-align: center; padding-top: 1.2in; }
+  .title-page { text-align: center; padding-top: .9in; }
   .title-page .kicker { font-family: "Helvetica Neue", Arial, sans-serif; letter-spacing: .35em; font-size: 13pt; color:#222; }
-  .title-page h1 { font-size: 52pt; line-height: 1.02; margin: .15in 0 0; letter-spacing: .02em; }
-  .title-page h2 { font-size: 20pt; font-weight: 600; margin: .18in 0 0; color:#111; }
-  .title-page .subtitle { font-family:"Helvetica Neue",Arial,sans-serif; font-size: 13.5pt; margin-top:.35in; font-weight:600; }
+  .title-page h1 { font-size: 46pt; line-height: 1.02; margin: .12in 0 0; letter-spacing: .02em; }
+  .title-page h2 { font-size: 18pt; font-weight: 600; margin: .14in 0 0; color:#111; }
+  .title-page .subtitle { font-family:"Helvetica Neue",Arial,sans-serif; font-size: 13pt; margin-top:.25in; font-weight:600; }
   .title-page .feature { font-size: 10.5pt; color:#222; margin-top:.12in; }
   .title-page .align { font-style: italic; font-size: 10.5pt; margin-top:.22in; }
-  .title-page .edition { font-family:"Helvetica Neue",Arial,sans-serif; font-size: 15pt; font-weight:700; margin-top:1.1in; }
+  .title-page .edition { font-family:"Helvetica Neue",Arial,sans-serif; font-size: 15pt; font-weight:700; margin-top:.8in; }
   .title-page .author { font-family:"Helvetica Neue",Arial,sans-serif; font-size: 18pt; font-weight:700; margin-top:.08in; }
   .rule { border:0; border-top:2px solid #000; margin:.28in 0; }
   .thin { border-top:1px solid #999; }
@@ -92,13 +97,17 @@
   .asheet-compact .wbox { min-width:30px; height:12px; }
   .asheet-compact .atitle { font-size:11pt; margin:.06in 0 .03in; }
   .asheet-compact .asheet { margin:.04in 0; }
+  .tight-strand1 p { margin:.045in 0; }
+  .tight-strand1 h2.sub { font-size:12.5pt; margin:.14in 0 .04in; }
+  .tight-strand1 ul { margin:.04in 0 .04in .05in; }
+  .tight-strand1 .note { padding:6px 10px; margin:.08in 0; }
 </style>
 </head>
 <body>
 
 <!-- ============ PAGE i : TITLE ============ -->
-<section class="page title-page">
-  <div class="kicker">TEXAS&nbsp;&nbsp;STAAR</div><div style="text-align:center;margin:.18in 0 .12in"><img src="assets/cover.png" style="width:2.7in;max-width:55%"/></div>
+<section class="page title-page nopagenum">
+  <div class="kicker">TEXAS&nbsp;&nbsp;STAAR</div><div style="text-align:center;margin:.18in 0 .12in"><img src="assets/cover.png" style="width:2.7in;max-width:55%" alt="Texas STAAR Grade 8 cover badge"/></div>
   <h1>GRADE&nbsp;8</h1>
   <h2>Reading Language Arts &amp; Mathematics</h2>
   <div class="subtitle">Complete Study Guide</div>
@@ -110,7 +119,7 @@
 </section>
 
 <!-- ============ PAGE ii : COPYRIGHT & DISCLAIMER ============ -->
-<section class="page disc">
+<section class="page disc nopagenum">
   <p class="mt">Copyright © 2026 by Andrian Ross. All rights reserved.</p>
   <p class="small">No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in reviews and certain other noncommercial uses permitted by copyright law.</p>
   <p class="small"><b>First printing, 2026.</b> Printed in the United States of America.<br>Interior: 8.5" × 11", black &amp; white.</p>
@@ -120,14 +129,13 @@
   <p class="small">This book is an <b>independent study guide</b>. It is <b>not affiliated with, authorized by, sponsored by, or endorsed by the Texas Education Agency</b> or any other Texas state agency. All references to STAAR and the TEKS are made solely for identification and educational alignment purposes.</p>
   <p class="small">All passages, questions, graphics, and practice materials in this book are <b>original works</b> created for instructional practice. They are designed to reflect the style, format, difficulty, and standards coverage of the STAAR Grade 8 assessment; they are <b>not</b> actual test questions and are <b>not</b> reproduced from any secure or released state testing material.</p>
   <h3>About This Edition</h3>
-  <p class="small">This 2027 Edition reflects the STAAR program <b>as of November 5, 2026</b>, including the online test format and the current question types, scoring, and TEKS blueprint. Under Texas House Bill 8 (2025), <b>spring 2027 is the final STAAR administration</b> for grades 3–8; a new assessment, the Student Success Tool, is scheduled to replace STAAR beginning in the 2027–2028 school year. This book is built to prepare students thoroughly for that final STAAR year.</p>
+  <p class="small">This 2027 Edition reflects the STAAR program for the 2026–2027 school year, including the online test format and the current question types, scoring, and TEKS blueprint. Under Texas House Bill 8 (2025), <b>spring 2027 is the final STAAR administration</b> for grades 3–8; a new assessment, the Student Success Tool, is scheduled to replace STAAR beginning in the 2027–2028 school year. This book is built to prepare students thoroughly for that final STAAR year.</p>
   <p class="small">While every effort has been made to ensure accuracy, test specifications can change. Families and educators should confirm current details on the official Texas Education Agency website.</p>
 </section>
 
 <!-- ============ PAGE iii–iv : TABLE OF CONTENTS ============ -->
 <section class="page toc">
   <h1 class="sec">Table of Contents</h1>
-  <p class="small"><em>Page numbers are finalized during layout.</em></p>
   <h3>Getting Started</h3>
   <ul>
     <li>How to Use This Book</li>
@@ -450,7 +458,7 @@
 </section>
 
 <!-- ============ PAGE 11–13 : STRAND 1 LESSON ============ -->
-<section class="page">
+<section class="page tight-strand1">
   <h1 class="sec">Strand 1 · Numerical Representations and Relationships</h1>
   <div style="border:1px solid #000;padding:8px;margin:.1in 0"><div style="font-family:Arial;font-weight:700;font-size:10.5pt;margin-bottom:3px">Placing irrational numbers on a number line (8.2B)</div><div style="text-align:center"><img src="assets/numberlines.png" style="width:5in;max-width:98%"/></div></div>
   <p><b>What this strand tests:</b> how to represent, compare, and order real numbers — including irrational numbers and scientific notation.</p>
@@ -497,12 +505,7 @@
   <p class="small"><b>Try It.</b> Order greatest to least: 0.7, ⅔, 71%. <em>(71% = 0.71, 0.7, ⅔ ≈ 0.667.)</em></p>
 
   <h2 class="sub">Strand 1 Checklist</h2>
-  <ul class="small">
-    <li>☐ 8.2A Classify real numbers and describe how the sets relate</li>
-    <li>☐ 8.2B Approximate irrational numbers and place them on a number line</li>
-    <li>☐ 8.2C Convert between standard and scientific notation</li>
-    <li>☐ 8.2D Order a mixed set of real numbers</li>
-  </ul>
+  <p class="small">☐ <b>8.2A</b> Classify real numbers and describe how the sets relate &nbsp;·&nbsp; ☐ <b>8.2B</b> Approximate irrational numbers and place them on a number line &nbsp;·&nbsp; ☐ <b>8.2C</b> Convert between standard and scientific notation &nbsp;·&nbsp; ☐ <b>8.2D</b> Order a mixed set of real numbers</p>
   <p class="small"><em>Ready to practice? Warm-up drills for Strand 1 come after all four strand lessons.</em></p>
 </section>
 
